@@ -1,0 +1,28 @@
+{
+  "name": "flight-with-dropdown",
+  "version": "0.0.1",
+  "homepage": "https://github.com/yuzhenmi/flight-with-dropdown",
+  "dependencies": {
+    "flight": "~1.3.0",
+    "jquery": "*"
+  },
+  "devDependencies": {
+    "jasmine-flight": "~3.0.0"
+  },
+  "description": "A Flight mixin for providing dropdown behavior",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "flight",
+    "dropdown",
+    "mixin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}

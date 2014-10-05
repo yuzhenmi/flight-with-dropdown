@@ -1,0 +1,35 @@
+{
+  "name": "flight-with-dropdown",
+  "version": "0.0.1",
+  "description": "A flight mixin for providing dropdown behavior",
+  "devDependencies": {
+    "requirejs": "~2.1.11",
+    "karma": "~0.12.0",
+    "karma-cli": "~0.0.4",
+    "karma-jasmine": "~0.2.0",
+    "karma-requirejs": "~0.2.1",
+    "karma-chrome-launcher": "~0.1.0",
+    "karma-firefox-launcher": "~0.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start --single-run",
+    "watch-test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuzhenmi/flight-with-dropdown.git"
+  },
+  "keywords": [
+    "flight",
+    "dropdown",
+    "mixin"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuzhenmi/flight-with-dropdown/issues"
+  },
+  "homepage": "https://github.com/yuzhenmi/flight-with-dropdown"
+}
